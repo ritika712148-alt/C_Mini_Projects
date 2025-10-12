@@ -6,4 +6,5 @@
 
 ###Project 2: Student Grade Calculator
 
-### Project 3: Number Guessing Game
+### Project 3:Project 3: Number Guessing Game
+
