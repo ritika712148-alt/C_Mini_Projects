@@ -15,6 +15,7 @@
 <img width="311" height="214" alt="image" src="https://github.com/user-attachments/assets/bf5e921a-06f2-46f5-bd72-2d1d72676e37" />
 
 ### project 4:ATM Machine Stimulation 
+<img width="356" height="686" alt="image" src="https://github.com/user-attachments/assets/019e58ea-99bf-4e41-a810-ee4be546b361" />
 
 ### Simple Quize Game
 
